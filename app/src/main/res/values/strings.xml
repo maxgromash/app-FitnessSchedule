@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitnessSchedule</string>
+    <string name="time">Время:</string>
+    <string name="trainer">Тренер:</string>
+    <string name="place">Место:</string>
+    <string name="dayOfWeek">День недели:</string>
+</resources>
